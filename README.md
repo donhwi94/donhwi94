@@ -5,8 +5,14 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20??style=for-the-badge&logo=Django&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1??style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1??style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E??style=for-the-badge&logo=Amazone AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639??style=for-the-badge&logo=NGINX&logoColor=white"/>
+</br>
 
+<img src="https://img.shields.io/badge/SQLite-003B57??style=for-the-badge&logo=SQLite&logoColor=white"/>
+</p>
 <!--
 **donhwi94/donhwi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
