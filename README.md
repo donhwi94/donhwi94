@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=donwhi%20Na&fontSize=90&fontAlignY=35)
 
-### Hi there 👋
-
-### <center>💎Tech Stack💎
-  Techs that I've used at least once<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  
-  
-</center>
+<h3 align="center">💎Tech Stack💎</h3>
+<p align="center">Techs that I've used at least once</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20??style=for-the-badge&logo=Django&logoColor=white"/>
+</p>
 
 <!--
 **donhwi94/donhwi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
