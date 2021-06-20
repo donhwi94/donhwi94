@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=donwhi%20Na&fontSize=90&fontAlignY=35)
 
+<!--
 <h3 align="center">💎Tech Stack💎</h3>
 <p align="center">Techs that I've used at least once</p>
 <p align="center">
@@ -12,6 +13,7 @@
 
 <img src="https://img.shields.io/badge/SQLite-003B57??style=for-the-badge&logo=SQLite&logoColor=white"/>
 </p>
+-->
 <!--
 **donhwi94/donhwi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
