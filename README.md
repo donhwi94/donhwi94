@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20??style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1??style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/aws-232F3E??style=for-the-badge&logo=AmazoneAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E??style=for-the-badge&logo=Amazone_AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639??style=for-the-badge&logo=NGINX&logoColor=white"/>
 </br>
 
