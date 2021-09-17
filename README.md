@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=donwhi%20Na&fontSize=90&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=donhwi%20Na&fontSize=90&fontAlignY=35)
 
 <!--
 <h3 align="center">💎Tech Stack💎</h3>
