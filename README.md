@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a> -->
 
 ## 💡Github Analytics
-![donhwi94's GitHub stats](https://github-readme-stats.vercel.app/api?username=donhwi94&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donhwi94&layout=compact&theme=graywhite&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![donhwi94's GitHub stats](https://github-readme-stats.vercel.app/api?username=donhwi94&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donhwi94&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsgnl123)](https://solved.ac/ehsgnl123) -->
 
